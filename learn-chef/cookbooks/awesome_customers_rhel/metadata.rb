@@ -7,3 +7,4 @@ long_description 'Installs/Configures awesome_customers_rhel'
 version '0.1.0'
 
 depends 'selnux', '~> 0.9.0'
+depends 'firewalld', '~> 2.4.0'
