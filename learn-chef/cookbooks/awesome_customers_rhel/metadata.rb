@@ -5,3 +5,5 @@ license 'all_rights'
 description 'Installs/Configures awesome_customers_rhel'
 long_description 'Installs/Configures awesome_customers_rhel'
 version '0.1.0'
+
+depends 'selnux', '~> 0.9.0'
