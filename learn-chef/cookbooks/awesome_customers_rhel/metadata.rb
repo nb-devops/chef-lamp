@@ -8,3 +8,4 @@ version '0.1.0'
 
 depends 'selnux', '~> 0.9.0'
 depends 'firewalld', '~> 2.4.0'
+depends 'httpd', '~> 0.3.5'
