@@ -1,2 +1,2 @@
 # chef-lamp
-LAMP-cookbook  in dev branch
+LAMP-cookbook  in hotfix branch
