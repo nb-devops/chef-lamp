@@ -15,4 +15,4 @@ default_unless['awesome_customers_rhel']['database']['admin_password']= random_p
 default['awesome_customers_rhel']['database']['dbname'] = 'my_company'
 default['awesome_customers_rhel']['database']['host'] = '127.0.0.1'
 default['awesome_customers_rhel']['database']['root_username'] = 'root'
-efault['awesome_customers_rhel']['database']['admin_username'] = 'db_admin'
+default['awesome_customers_rhel']['database']['admin_username'] = 'db_admin'
